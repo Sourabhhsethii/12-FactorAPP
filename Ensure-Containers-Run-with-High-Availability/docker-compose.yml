@@ -1,0 +1,5 @@
+version: '3'
+services:
+  helloworld_dxsys:
+    image: helloworld_dxsys
+    restart: always
